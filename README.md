@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rashob
 - 👀 I’m interested in coding ❤️🙌
 - 🌱 I’m currently learning C	😁
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on making a website ✌️
 - 📫 How to reach me ⚡washiul92@hotmail.com ✈️@washiul_islam
 
 <!---
