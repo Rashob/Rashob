@@ -19,6 +19,7 @@
   HEY!!!!
   <img src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" width="100px"/>
 </h1>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rashob)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -31,10 +32,18 @@
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-<div>
+   <div>
      <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="Java" alt="C" width="50" height="50"/>
 		  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>
 </div>
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rashob&theme=dracula&background=000000&border=00D5DD)](https://git.io/streak-stats)
+
+[![Rashob's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rashob&layout=compact&theme=radical))](https://github.com/Rashob/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rashob&layout=compact&theme=vision-friendly-dark&title=blue)](https://github.com/Rashob/github-readme-stats)
 
 <!---
 Rashob/Rashob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
