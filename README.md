@@ -37,7 +37,7 @@
 ---
 
 ### :fire: My Stats :
-<div id="header">
+<div id="header" align="center">
 	
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rashob&theme=dracula&background=000000&border=00D5DD)](https://git.io/streak-stats)
 
