@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/>
 </div>
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.facebook.com/UNIQUE.PRM">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
@@ -19,8 +19,6 @@
   HEY!!!!
   <img src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" width="100px"/>
 </h1>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rashob)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 - 👋 Hi, I’m @Rashob
