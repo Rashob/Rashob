@@ -31,7 +31,7 @@
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-     <div>
+<div>
      <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="Java" alt="C" width="50" height="50"/>
 		  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>
 </div>
