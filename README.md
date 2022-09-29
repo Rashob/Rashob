@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/>
+  <img src="https://media.giphy.com/media/HHwI031emo0GQ/giphy.gif"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.facebook.com/UNIQUE.PRM">
@@ -15,8 +15,7 @@
 </div>
 
 
-<h1>
-  HEY!!!!
+<h1 align="center">
   <img src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" width="100px"/>
 </h1>
 
@@ -30,7 +29,7 @@
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-   <div>
+   <div aling="center">
      <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="Java" alt="C" width="50" height="50"/>
 		  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>
 </div>
@@ -38,7 +37,7 @@
 ---
 
 ### :fire: My Stats :
-<div id="header" align="center">
+<div id="header">
 	
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rashob&theme=dracula&background=000000&border=00D5DD)](https://git.io/streak-stats)
 
