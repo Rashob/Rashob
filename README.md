@@ -18,7 +18,6 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" width="100px"/>
 </h1>
-![](https://komarev.com/ghpvc/?username=Rashob)
 
 
 - 👋 Hi, I’m @Rashob
