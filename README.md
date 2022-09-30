@@ -19,13 +19,18 @@
   <img src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" width="100px"/>
 </h1>
 
+<h1 align="center">
 
-- 👋 Hi, I’m @Rashob
-- 👀 I’m interested in coding ❤️🙌
+-  <img src="https://tenor.com/bfGeo.gif"> ***Hi, I’m @[Rashob](https://www.instagram.com/washiul_islam/)***
+
+- 👀 I’m interested in learning coding ❤️🙌
+
 - 🌱 I’m currently learning C	😁
-- 💞️ I’m looking to collaborate on making a website ✌️
-- 📫 How to reach me ⚡washiul92@hotmail.com ✈️@washiul_islam
 
+- 💞️ I’m looking to collaborate on making a website ✌️
+
+- 📫 How to reach me ⚡washiul92@hotmail.com ✈️[Washiul Islam](https://twitter.com/islam_washiul)
+</h1>
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
