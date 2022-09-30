@@ -16,12 +16,12 @@
 
 
 <h1 align="center">
-  <img src="https://media.tenor.com/HO7EBVsu04oAAAAi/pikachu-pokemon.gif"/>
+  <img src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" width="100px"/>
 </h1>
 
 <h1 align="center">
 
--  <img src="https://tenor.com/bfGeo.gif"> ***Hi, I’m @[Rashob](https://www.instagram.com/washiul_islam/)***
+-  ***Hi, I’m @[Rashob](https://www.instagram.com/washiul_islam/)***
 
 - 👀 I’m interested in learning coding ❤️🙌
 
@@ -52,10 +52,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rashob&layout=compact&theme=vision-friendly-dark&title=blue)](https://github.com/Rashob/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=Rashob)
-
 </div>
-
 <!---
 Rashob/Rashob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
