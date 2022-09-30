@@ -25,7 +25,7 @@
 
 - 👀 I’m interested in learning coding ❤️🙌
 
-- 🌱 I’m currently learning C	😁
+- 🌱 I’m currently learning  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="Java" alt="C" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>
 
 - 💞️ I’m looking to collaborate on making a website ✌️
 
