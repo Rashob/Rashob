@@ -16,7 +16,7 @@
 
 
 <h1 align="center">
-  <img src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" width="100px"/>
+  <img src="https://media.tenor.com/HO7EBVsu04oAAAAj/pikachu-pokemon.gif" width="100px"/>
 </h1>
 
 <h1 align="center">
