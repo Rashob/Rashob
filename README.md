@@ -21,7 +21,7 @@
 
 <h1 align="center">
 
--  ***Hi, I’m @[Rashob](https://www.instagram.com/washiul_islam/)***
+-  ***Hi, I’m @[***Washiul***](https://www.instagram.com/washiul_islam/)***
 
 - 👀 I’m interested in learning coding ❤️🙌
 
