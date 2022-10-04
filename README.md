@@ -40,6 +40,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="Java" alt="C" width="50px" height="50px"/>
 		  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50px" height="50px"/>
      <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" title="HTML5" width="50px" height="50px">
+     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" height=50px width=50px>
 </div>
 
 ---
