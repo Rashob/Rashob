@@ -4,13 +4,13 @@
 </div>
 <div id="badges" align="center">
   <a href="https://www.facebook.com/UNIQUE.PRM">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Badge"/>
+    <img src="https://img.icons8.com/color/344/facebook-circled--v2.png" height="60px" width="60px"/>
   </a>
   <a href="https://www.instagram.com/washiul_islam/">
-    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
+    <img src="https://img.icons8.com/clr-gls/344/instagram.png" height="60px" width="60px"/>
   </a>
   <a href="https://twitter.com/islam_washiul">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.icons8.com/color/344/twitter--v2.png" height="60px" width="60px"/>
   </a>
 </div>
 
