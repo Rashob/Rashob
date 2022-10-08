@@ -25,7 +25,7 @@
 
 - 👀 I’m interested in learning coding ❤️🙌
 
-- 🌱 I’m currently learning  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="Java" alt="C" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>
+- 🌱 I’m currently learning <a href="https://github.com/Rashob/College_Works"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="Java" alt="C" width="50" height="50"/> </a> <a href="https://github.com/Rashob/JAVA_SCRIPT_Begining"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/> </a>
 
 - 💞️ I’m looking to collaborate on making a website ✌️
 
