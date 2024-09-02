@@ -17,22 +17,7 @@
 </div>
 
 
-<h1 align="center">
-  <img src="https://media.tenor.com/HO7EBVsu04oAAAAj/pikachu-pokemon.gif" width="100px"/>
-</h1>
 
-<h1 align="center">
-
--  ***Hi, I’m @[***Washiul***](https://rashob.github.io/)***
-
-- 👀 I’m interested in learning coding ❤️🙌
-
-- 🌱 I’m currently learning <a href="https://github.com/Rashob/College_Works"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="Java" alt="C" width="50" height="50"/> </a> <a href="https://github.com/Rashob/JAVA_SCRIPT_Begining"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/> </a>
-
-- 💞️ I’m looking to collaborate on making a website ✌️
-
-- 📫 How to reach me ⚡washiul92@hotmail.com ✈️[Washiul Islam](https://twitter.com/islam_washiul)
-</h1>
 ---
 /*
 
