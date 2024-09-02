@@ -34,23 +34,7 @@
 - 📫 How to reach me ⚡washiul92@hotmail.com ✈️[Washiul Islam](https://twitter.com/islam_washiul)
 </h1>
 ---
-
-<div align="center">
-
-### :hammer_and_wrench: Languages and Tools :
-   <a href="https://github.com/Rashob/College_Works">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="50px" height="50px"/>
-  </a>
-		<a href="https://github.com/Rashob/JAVA_SCRIPT_Begining">  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50px" height="50px"/>
-</a>
-<a href="https://github.com/Rashob/Rashob.github.io">
-<img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" title="HTML5" width="50px" height="50px">
-</a>
-<a href="https://github.com/Rashob/Rashob.github.io">
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" height=50px width=50px>
-</a>
-</div>
+/*
 
 ---
 
